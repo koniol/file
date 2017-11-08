@@ -1,0 +1,15 @@
+index.js
+.idea
+js-1_20.jpg
+data.txt
+node_modules
+package.json
+test.txt
+.idea
+data.txt
+index.js
+index.html
+js-1_20.jpg
+node_modules
+package.json
+test.txt
